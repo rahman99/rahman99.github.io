@@ -1,3 +1,25 @@
-name: rahmann, pokaan
-markdown : kramdown
-permalink: /blog/:year/:month/:day/:title
+# name: rahmann, pokaan
+# markdown : kramdown
+# permalink: /blog/:year/:month/:day/:title
+
+title: Rahman Blog   # your title
+author: Rahmann # your name
+description: Sharing Notes # your description
+avatar: /images/avatar.png # change avatar
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+gems: [jekyll-paginate]
+
+# Comments
+# disqus:
+#   shortname: xxxx-xxxxx-xxx   # your disqus shortname
+
+# Google Analytics
+# google_analytics: xx-xxxxxxxx-1  # your google analytics

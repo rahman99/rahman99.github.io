@@ -7,5 +7,8 @@ installation jekyll can be referred to [jekyll documentation][2]
 > run jekyll in local: "jekyll serve"
 > then access in localhost:4000
 
+theme using [KrisYu][3]
+
  [1]: http://jmcglone.com/guides/github-pages/
  [2]: https://jekyllrb.com/docs/installation/
+ [3]: https://github.com/KrisYu/Xian
