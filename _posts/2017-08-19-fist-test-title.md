@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "first-test-title"
+comments: true
+title: "first test title"
 date: 2017-08-19
 category: ["sample", "test"]
 ---
