@@ -18,8 +18,8 @@ paginate_path: "/page:num/"
 gems: [jekyll-paginate]
 
 # Comments
-# disqus:
-#   shortname: xxxx-xxxxx-xxx   # your disqus shortname
+disqus:
+  shortname: rahman99   # your disqus shortname
 
 # Google Analytics
-# google_analytics: xx-xxxxxxxx-1  # your google analytics
+google_analytics: UA-104955265-1  # your google analytics
