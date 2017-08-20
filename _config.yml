@@ -18,8 +18,9 @@ paginate_path: "/page:num/"
 gems: [jekyll-paginate]
 
 # Comments
-disqus:
-  shortname: rahman99   # your disqus shortname
+### this one is to enable all page with comments. 
+# disqus:
+#   shortname: rahman99   # your disqus shortname
 
 # Google Analytics
 google_analytics: UA-104955265-1  # your google analytics
