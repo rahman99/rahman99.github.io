@@ -3,7 +3,7 @@ layout: post
 comments: false
 title: "Clean Code in Javascript"
 date: 2017-09-21
-category: ["architecture, programming"]
+category: ["architecture", "programming"]
 ---
 
 Repositori original : [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)

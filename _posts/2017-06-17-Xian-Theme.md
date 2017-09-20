@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 ---
 
 A simple two-column jekyll theme delicated to wrting.
@@ -57,7 +58,7 @@ Now you're all set, write articles and add to _posts folder, remember to name it
 
 ```
 ---
-layout: post 
+layout: post
 ---
 ```
 
