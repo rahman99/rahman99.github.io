@@ -2,7 +2,7 @@
 # markdown : kramdown
 # permalink: /blog/:year/:month/:day/:title
 
-title: Rahman Blog   # your title
+title: Rahmann Blog   # your title
 author: Rahmann # your name
 description: Sharing Notes # your description
 avatar: /images/avatar.png # change avatar
